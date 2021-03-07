@@ -1,4 +1,3 @@
-# notepad
 from tkinter import *
 import tkinter.messagebox as tmsg
 from tkinter.filedialog import askopenfilename,asksaveasfilename
